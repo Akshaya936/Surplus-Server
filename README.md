@@ -13,11 +13,14 @@ Frontend:
   - HTML
   - CSS(Bootstrap)
   - JavaScript
+    
 Backend:
   - Node.js(Express)
   - API endpoints
+    
 Database:
   - MySQL: Store user & Donation information
+    
 Other Tools & Libraries:
   - JWT(JSON Web Token) - authentication
   - bcrypt.js - password encrytion
