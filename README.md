@@ -1,4 +1,4 @@
-## Surplus Server 
+# Surplus Server 
 It is a web application that connects food donors with nearby NGOs to reduce food wastage. Donors can post surplus food and NGOs can view aand accept donations based on location.
 
 # How it works:
